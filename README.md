@@ -1,12 +1,36 @@
 # Smpider
 Standalone Js Crawler. (Human Version)
 
-Como usar:
+Como Ejecutar:
 
 1. Copia todo el código javascript.
 2. Visita cualquier página web.
 3. Introduce el código en la barra de direcciones y pulsa ir.
 IMPORTANTE: Es posible que el navegador Google Chrome elimine la palabra javascript: al pegar el código en la barra de direcciones. Debes ir al principio del código y añadírselo. O usa otro navegador.
+
+Como Usar:
+
+La opción número 1 para los mensajes emergentes para dejarte visualizar la página web.
+
+La opción número 2 te pide un selector (se usa igual que los estilos de css) si por ejemplo quieres extraer los links de la página web, introduces la letra a.
+ La opción número 2 te pide un atributo. Por ejemplo href.
+ La opción número 2 guarda los resultados en memoria local. Si no es la primera vez que utilizas esta opción te permite añadir resultados para que puedas visualizar todo lo que extraigas de la página simultaneamente o descargarlo.
+Ejemplos de selectores y atributos útiles:
+a href
+img src
+a outerHTML
+img outerHTML
+title innerHTML
+...
+
+La opción número 3 te permite descargar todo lo que seleccionases con la opción numero 2. Te pide el nombre del archivo, ej: MiDocumento
+También te pide la extensión, ej: txt
+
+La opción número 4 carga la página web original para que puedas seguir sacando contenido. Recomendado usar la opción número 1 tras esta opción para dejar cargar la web 2 o 3 segundos.
+
+La opción número 0 cierra el programa. Recomendado usarla en vez de forzar el cierre, ya que libera memoria.
+
+ESTÁ EN DESARROLLO. CAMBIOS SERÁN INTRODUCIDOS.
 
 Codigo:
 
