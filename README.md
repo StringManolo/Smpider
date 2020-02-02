@@ -21,7 +21,11 @@ img src
 a outerHTML
 img outerHTML
 title innerHTML
+.btn-class outerHTML
+#miDiv innerHTML
+html outerHTML
 ...
+
 
 La opción número 3 te permite descargar todo lo que seleccionases con la opción numero 2. Te pide el nombre del archivo, ej: MiDocumento
 También te pide la extensión, ej: txt
