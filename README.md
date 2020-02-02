@@ -33,6 +33,7 @@ La opción número 0 cierra el programa. Recomendado usarla en vez de forzar el 
 ESTÁ EN DESARROLLO. CAMBIOS SERÁN INTRODUCIDOS.
 
 Codigo:
+https://raw.githubusercontent.com/StringManolo/Smpider/master/codigo.js
 
 
 Codigo:
